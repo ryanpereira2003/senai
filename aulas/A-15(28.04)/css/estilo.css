@@ -1,0 +1,52 @@
+.container{
+    width: 1280px;
+    height: auto;
+    display: flex;
+    justify-content: space-between; 
+    margin: 0 auto;
+}
+.box{
+    width: 268px;
+    border-radius: 16px 16px;
+    padding: 20px;
+    border: 2px solid gray;
+    margin: 15px;
+    font-family: sans-serif;
+
+}
+.btn{
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    padding: 5%;
+    color: darkblue;
+    text-decoration: none;
+}
+.btn1{
+    width: 100%;
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 15%;
+    
+}
+p{
+color: dimgrey;
+}
+img{
+    width: auto;
+    height: auto;
+}
+.banner{
+    background-image: url(https://www.itau.com.br/media/dam/m/298da1ca934e66fb/original/Reneg_Rotativo_desktop_1280x540px.png);
+    color: white;
+    height: 500px;
+
+}
+.content{
+    margin: 15px 15px 15px 15px;
+    color: white;
+    
+}
+body{
+    font-family: sans-serif;
+}
