@@ -1,0 +1,23 @@
+.container{
+    color:black;
+    height: auto;
+    width: 300px;
+    margin: 0 auto;
+    background-color: #636363;
+    border-radius: 16px;
+    border:  4px solid black;
+}
+h2{
+ background-color:yellow;
+ max-width: 150px;
+ height: 30px;
+ margin: 0 auto;
+ border-radius: 16px;
+}
+a{
+color: rgb(238, 230, 230);
+
+}
+li{
+color:yellow;
+}
